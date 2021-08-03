@@ -1,10 +1,8 @@
 # custom-camera-inspector(ver1.0.0)
 Extend inspector of camera component as follows:
-- Add Game view preview.
-- Scene view camera synchronization
-- Move and rotate by operating the mouse.
+- Add preview that camera in the Scene view always sync.
+- Move and rotate by the mouse.
 - Take screenshots.
-Features will be added.
 
 This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
 

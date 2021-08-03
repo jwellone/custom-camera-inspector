@@ -175,7 +175,7 @@ namespace UniExtensions.Inspector
 
 					case EventType.ScrollWheel:
 						{
-							transform.position += transform.forward * Time.deltaTime * e.delta.y * 10;
+							transform.position += transform.forward * Time.deltaTime * -e.delta.y * 10;
 							Event.current.Use();
 							break;
 						}

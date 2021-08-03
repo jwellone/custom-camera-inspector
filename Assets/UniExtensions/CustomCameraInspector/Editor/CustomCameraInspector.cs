@@ -214,6 +214,8 @@ namespace UniExtensions.Inspector
 			rt.Release();
 
 			File.WriteAllBytes(filePath, tex.EncodeToPNG());
+
+			GameObject.DestroyImmediate(tex);
 		}
 	}
 }

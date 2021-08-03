@@ -1,5 +1,5 @@
 {
-    "name": "CustomCameraInspector.Editor",
+    "name": "UniExtensions.CustomCameraInspector.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

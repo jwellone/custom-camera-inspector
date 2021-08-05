@@ -1,25 +1,12 @@
-<p align="left"> 
-    <a href="https://github.com/jwellone/custom-camera-inspector/blob/main/LICENSE">
-        <img height="20" src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000&style=plastic">
-    </a>
-    <a href="https://github.com/jwellone">
-        <img height="20" src="https://img.shields.io/github/followers/jwellone?label=github&logo=github&style=plastic"/>
-    </a>
-    <a href="http://twitter.com/jwellone">
-        <img height="20" src="https://img.shields.io/twitter/follow/jwellone?label=Twitter&logo=twitter&style=plastic"/>
-    </a>
-    <a href="https://www.facebook.com/jwellone">
-        <img height="20" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=plastic"/>
-    </a>
-    <a>
-        <img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=plastic">
-    </a>
-    <a href="https://unity.com">
-        <img height="20" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&style=plastic">
-    </a>    
-</p>
+[![GitHub license](https://img.shields.io/github/license/jwellone/custom-camera-inspector.svg?style=plastic)](https://github.com/jwellone/custom-camera-inspector/blob/main/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/jwellone/custom-camera-inspector.svg?style=plastic)](https://GitHub.com/jwellone/custom-camera-inspector/releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/jwellone/custom-camera-inspector/total?color=blue&style=plastic)](https://GitHub.com/jwellone/custom-camera-inspector/releases)
+![GitHub repo size](https://img.shields.io/github/repo-size/jwellone/custom-camera-inspector?label=size&style=plastic)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&style=plastic)
+[![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&style=plastic)](https://unity.com)
 
-# custom-camera-inspector(ver1.0.0)
+
+# custom-camera-inspector
 Extend inspector of camera component as follows:
 - Add preview that camera in the Scene view always sync.
 - Move and rotate by the mouse.
@@ -38,3 +25,8 @@ This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
 ## Authors
 Developer:[Yasuhiko Usui.](https://github.com/UsuiYasuhiko-jw1)
 
+[![GitHub watchers](https://img.shields.io/github/watchers/jwellone/custom-camera-inspector.svg?style=social&label=Watch)](https://GitHub.com/jwellone/custom-camera-inspector/watchers/)
+[![GitHub stars](https://img.shields.io/github/stars/jwellone/custom-camera-inspector.svg?style=social&label=Stars)](https://GitHub.com/jwellone/custom-camera-inspector/stargazers)
+[![GitHub fork](https://img.shields.io/github/forks/jwellone/custom-camera-inspector.svg?style=social&label=Fork)](https://GitHub.com/jwellone/custom-camera-inspector/network/members)
+[![Twitter](https://img.shields.io/twitter/follow/jwellone?label=Twitter&logo=twitter&style=social)](http://twitter.com/jwellone)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=plastic)](https://www.facebook.com/jwellone)

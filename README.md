@@ -12,7 +12,7 @@ Extend inspector of camera component as follows:
 - Move and rotate by the mouse.
 - Take screenshots.
 
-This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
+This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
 
 ## Getting Started

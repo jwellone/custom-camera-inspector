@@ -1,5 +1,5 @@
 {
-    "name": "UniExtensions.CustomCameraInspector.Editor",
+    "name": "jwellone.CustomCameraInspector.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

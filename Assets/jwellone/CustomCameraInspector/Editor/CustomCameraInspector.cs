@@ -4,7 +4,7 @@ using System.IO;
 using UnityEngine;
 using UnityEditor;
 
-namespace UniExtensions.Inspector
+namespace jwellone.Editor.Inspector
 {
 	[CustomEditor(typeof(Camera))]
 	public class CustomCameraInspector : CameraEditor
